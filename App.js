@@ -18,26 +18,26 @@ const elements = React.createElement(
   [
     React.createElement("div", { id: "children1", className: "children_div" }, [
       React.createElement(
-        "h2",
+        "h1",
         { id: "header1" },
-        "Hello World from h2 Element"
+        "Hello World from h1 Element"
       ),
       React.createElement(
-        "h1",
+        "h2",
         { id: "header2", className: "header" },
-        "Hello World from h1 Element"
+        "Hello World from h2 Element"
       ),
     ]),
     React.createElement("div", { id: "children2", className: "children_div" }, [
       React.createElement(
-        "h2",
+        "h3",
         { id: "header3" },
-        "Hello World from h2 Element"
+        "Hello World from h3 Element"
       ),
       React.createElement(
-        "h1",
+        "h4",
         { id: "header4", className: "header" },
-        "Hello World from h1 Element"
+        "Hello World from h4 Element"
       ),
     ]),
   ]
