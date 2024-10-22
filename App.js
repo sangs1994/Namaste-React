@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 /*****
  * <h1> Hello World from React </h1>
  * <div id="parent">
