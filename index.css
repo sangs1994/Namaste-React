@@ -24,6 +24,11 @@
   padding: 20px;
 }
 
+.top-rated-button {
+  cursor: pointer;
+  margin: 10px;
+}
+
 .res-container {
   display: flex;
   gap: 1rem;
