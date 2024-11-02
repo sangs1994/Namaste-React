@@ -24,6 +24,12 @@
   padding: 20px;
 }
 
+.res-container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
 .res-card {
   width: 200px;
   padding: 10px;
