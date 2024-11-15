@@ -68,3 +68,18 @@
 .filter {
   display: flex;
 }
+
+.RestaurantContainer {
+  background: linear-gradient(#aba2a2 -6.71%, #ebebf2 56.19%, #dfdfe7 106.56%);
+  padding: 0px 16px 16px;
+  border-bottom-left-radius: 36px;
+  border-bottom-right-radius: 36px;
+}
+
+.RestaurantContainer .accordion-title {
+  display: flex;
+}
+
+.RestaurantContainer .accordion-title div {
+  margin-right: 10px;
+}
